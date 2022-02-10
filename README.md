@@ -1,6 +1,6 @@
 # jQuery_Simon_Game
 ## Quick Link
-* Link here
+* https://hanamurayama.github.io/jQuery_Simon_Game/
 ## Descriptions
 * Practice 5
 * Simon game using jQuery
