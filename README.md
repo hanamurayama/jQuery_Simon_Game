@@ -1,5 +1,6 @@
 # jQuery_Simon_Game
-## Practice 5
 ## Quick Link
 * Link here
+## Descriptions
+* Practice 5
 * Simon game using jQuery
