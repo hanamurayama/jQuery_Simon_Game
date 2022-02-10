@@ -1,1 +1,55 @@
+body {
+  text-align: center;
+  background-color: #303030;
+}
 
+#level-title {
+  font-family: 'Viga', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 5rem;
+  margin:  5%;
+  color: #F0FFFF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 7.5px solid #ffff;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: #ED553B;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: #ED553B;
+}
+
+.green {
+  background-color: #3CAEA3;
+}
+
+.blue {
+  background-color: #20639B;
+}
+
+.yellow {
+  background-color: #F6D55C;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
